@@ -1,0 +1,35 @@
+body{
+    background-color: cornsilk;
+    border: 1px solid brown;
+}
+
+#title{
+    text-align: center;
+    color: brown;
+
+}
+
+#form{
+    text-align: center;
+    color: brown;
+    
+}
+
+#input{
+    background-color: gainsboro;
+    color: brown;
+}
+
+.to-do{
+    text-align: justify;
+    color: brown;
+    font-size: x-large;
+    margin: 20px;
+    
+}
+
+#add{
+    background-color: gainsboro;
+    color: brown;
+}
+
